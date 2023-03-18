@@ -32,7 +32,7 @@ class Member {
 public class Main() {
     public static void main(String[] args) {
     
-        Member minsuk = Member.builder()
+        Member yuyueon = Member.builder()
                 .name("배유연👸")
                 .job("Back-end engineer🏽‍💻")
                 .languages({"java☕"})
@@ -41,7 +41,7 @@ public class Main() {
                 .collaborationTools({Slack📑, Notion, Jira, Github project, Git, Intellij})
                 .interests({"운동🏋️‍♂️", "베이킹🍞"})
                 .build();
-        introduce(minsuk);
+        introduce(yuyueon);
     }
 }
 ```
@@ -49,4 +49,4 @@ public class Main() {
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbaeyuyeon&count_bg=%23E978EF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Baeyuyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=baeyuyeon)](https://github.com/anuraghazra/github-readme-stats)
